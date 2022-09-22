@@ -61,12 +61,13 @@
 						</configuration>
 					</execution>
 					<!-- Add this part for specify rules of checking -->
+					<!-- 
 					<execution>
 						<id>jacoco-check</id>
 						<goals>
 							<goal>check</goal>
 						</goals>
-					</execution>
+					</execution> -->
 					<!--Added for code coverage report aggregation, This is an optional 
 						Tag. Not mandatory -->
 					<execution>
